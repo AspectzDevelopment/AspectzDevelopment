@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Aspectz! ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.net/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://hyperz.net/)
+## Hey 👋, I'm Aspectz! ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/V9PACWMY6Z) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://discord.gg/V9PACWMY6Z)
 
 ```js
 async function legend() {
@@ -12,8 +12,8 @@ async function legend() {
 
   let practice = await Aspectz.randomize(doing, langs, tools);
 
-  let lifeStoryPart1 = `What's up weirdos, I'm a highschooler with a passion for Software Development and Graphic Design! `;
-  let lifeStoryPart2 = `I spend most of my time coding in Discord calls with friends, or playing games on Steam. `;
+  let lifeStoryPart1 = `What's up Guys, I'm a highschooler with a passion for WEB,FiveM Development and Much more! `;
+  let lifeStoryPart2 = `I spend most of my time coding alone, or playing games on. `;
   let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
 
   console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
