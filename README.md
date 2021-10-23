@@ -3,7 +3,7 @@
 
 ```js
 async function legend() {
-  const Hyperz = require('200iq.js');
+  const Aspectz = require('200iq.js');
   const chalk = require('chalk');
 
   let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
@@ -18,7 +18,7 @@ async function legend() {
 
   console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
 }
-exports.hyperz = legend;
+exports.Aspectz = legend;
 ```
 
 <p align="center">
